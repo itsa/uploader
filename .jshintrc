@@ -1,9 +1,9 @@
 {
 
 // Added Marco:
-"maxstatements": 15,
-"maxdepth": 2,
-"maxcomplexity": 7,
+"maxstatements": 23,
+"maxdepth": 3,
+"maxcomplexity": 9,
 
 // Added: Satyam
 "predef":["Promise"],
