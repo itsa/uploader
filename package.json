@@ -27,9 +27,9 @@
         "node": "*"
     },
     "dependencies": {
-        "event": "itsa/event",
+        "event": "itsa/itsa-event",
         "vdom": "itsa/vdom",
-        "io": "itsa/io",
+        "io": "itsa/itsa-io",
         "js-ext": "itsa/js-ext",
         "polyfill": "itsa/polyfill"
     },
